@@ -1,0 +1,26 @@
+{
+  "name": "mysql-wait",
+  "version": "1.0.0",
+  "description": "Mysql wait will wait until your mysql database is up, and then trigger.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshWillik/mysql-wait.git"
+  },
+  "keywords": [
+    "mysql",
+    "waiter"
+  ],
+  "author": "Josh Vanderwillik <joshwillik@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshWillik/mysql-wait/issues"
+  },
+  "homepage": "https://github.com/JoshWillik/mysql-wait#readme",
+  "dependencies": {
+    "mysql": "^2.8.0"
+  }
+}
