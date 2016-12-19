@@ -1,6 +1,6 @@
-# Mysql Wait
+# MySQL Wait
 
-Mysql wait will wait until your mysql database is up, and then trigger.
+A promise based API to wait for a MySQL database to become available.
 
 ## Install
 

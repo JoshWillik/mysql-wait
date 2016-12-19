@@ -1,7 +1,7 @@
 {
   "name": "mysql-wait",
   "version": "1.1.1",
-  "description": "Mysql wait will wait until your mysql database is up, and then trigger.",
+  "description": "A promise based API to wait for a MySQL database to become available.",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha"
